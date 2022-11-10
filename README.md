@@ -68,17 +68,12 @@
 
 5. Conclusiones
 
- - Concluimos que al implementar el teorema Norton en circuitos mixtos se debe encontrar una única corriente denominada “IN” y simplificar todas las resistencias en nuestro circuito utilizando leyes de Kirchhoff y divisores de voltaje, dando como resultado un solo resistor denominado “RN”.
+ - Se concluye que existe varias magnitudes físicas que se utilizan en la electricidad, se las debe conocer bien al igual que sus escalas.
 
- - En conclusión, al aplicar el Teorema de Superposición se tomo en cuenta que el numero de fuentes que existen en el problema será directamente proporcional al numero de circuitos que se derivaran para el debido proceso. Estas fuentes pueden ser de voltaje como de intensidad de corriente.
+ - Al igual que debemos conocer las magnitudes físicas eléctricas, debemos conocer la forma de medirlas analógica o digitalmente, con el uso de un multimetro se debe medir cada magnitud de una manera determinada, ya sea en serie o paralelo.
  
- - Mediante la lectura y la practica de los teoremas de conversiones y circuitos, se pudo observar que para simplificaciones, se basa en los teoremas de superposición y en conversiones de fuentes, las cuales fueron las bases para los teoremas de Norton y Thevenin por lo cual es importante practicar con estos ya que con sus derivaciones nos podemos especializar en los cálculos de circuitos.
+ - Mediante la lectura y la practica del libro circuitos eléctricos de Floyd, se logró conocer de manera satisfactoria las conversiones en notación científica, puesto a que varios datos pueden tener cifras exageradamente largas, se las puede expresar de manera resumida con notación científica.
 
-Los circuitos han sido simulados en tinkercad con el fin de que se verifique que se cumple tanto con cálculos, como por simulación los teoremas.
-
-En el primer circuito se comprueba el teorema de conversión de fuente, demostrando la ley de ohm con la fórmula de I=V/R, con la ayuda del suministro de energía se coloca el valor que el enunciado del ejercicio nos proporciona, se escoge la resistencia y se modifica su valor, por ultimo con el instrumento de medida se lo conecta en serie para obtener la corriente que circula por el circuito.
-
-En el segundo circuito se comprueba el teorema de Thevenin, demostrando de esa manera que la corriente que circula por un circuito serie-paralelo, es casi exacta cuando se simula, en este caso no marco ningún margen de error debido a que la corriente resultante es un número entero, para este circuito se necesitaron de 5 resistencias con sus respectivos valores y colocando el amperímetro en la resistencia en la que se desea medir.
 
 6. Bibliografía
  
