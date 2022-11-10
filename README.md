@@ -1,5 +1,5 @@
 # Trabajo-de-investigacion-1
-erick pro mix
+
 1. OBEJTIVOS
 
   * Objetivo General:
