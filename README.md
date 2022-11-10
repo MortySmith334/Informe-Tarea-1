@@ -35,6 +35,9 @@
     
     [![5.png](https://i.postimg.cc/Z5mvZXhC/5.png)](https://postimg.cc/ZCf5x7nS)
     
+    [![6.png](https://i.postimg.cc/wvNFZSp0/6.png)](https://postimg.cc/JD1bBYtk)
+    
+    [![7.png](https://i.postimg.cc/Vvc48Ds1/7.png)](https://postimg.cc/JDPj33Bd)
    
 4. Lista de Componentes
 
