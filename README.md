@@ -33,7 +33,7 @@
     
     [![4.png](https://i.postimg.cc/fW87RzR1/4.png)](https://postimg.cc/NLr2NwTx)
     
-    [![5.png](https://i.postimg.cc/6qFf6cfY/5.png)](https://postimg.cc/9wt7JGS7)
+    [![5.png](https://i.postimg.cc/Z5mvZXhC/5.png)](https://postimg.cc/ZCf5x7nS)
     
    
 4. Lista de Componentes
