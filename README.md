@@ -12,7 +12,7 @@
 
     - Desarrollar resúmenes a travez de mapas conceptuales para organizar y memorizar la teoría.
     
-    - 
+    - Realizar ejercicios correspondientes al tema de unidades y medidas de circuitos eléctricos.
     
 2. MARCO TEÓRICO
 
