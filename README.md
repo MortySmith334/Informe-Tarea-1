@@ -24,8 +24,8 @@
 
 3. DESARROLLO
 
-    
-   ![image](https://user-images.githubusercontent.com/76132461/103849674-5906a180-5073-11eb-9f1e-5e1e0f76b7e0.png)
+
+   [![1.png](https://i.postimg.cc/VNtmZkdT/1.png)](https://postimg.cc/8FT2jDdB)
     
     
    ![image](https://user-images.githubusercontent.com/76132461/103841450-9d894180-5061-11eb-923f-b8885aa51e6b.png)
