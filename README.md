@@ -28,6 +28,8 @@
    [![1.png](https://i.postimg.cc/VNtmZkdT/1.png)](https://postimg.cc/8FT2jDdB)
     
     [![2.png](https://i.postimg.cc/8cxVb8TD/2.png)](https://postimg.cc/QKgPXyBn)
+    
+    [![3.png](https://i.postimg.cc/y6RBVdj8/3.png)](https://postimg.cc/ThTB0TBz)
    
 4. Lista de Componentes
 
