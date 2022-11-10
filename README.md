@@ -45,7 +45,6 @@
    
 4. Lista de Componentes
 
-![image](https://user-images.githubusercontent.com/76134214/103854504-9a507e80-507e-11eb-9e3f-b8e48caab0c6.png)
 
 5. Explicación
 
@@ -57,18 +56,7 @@ En el segundo circuito se comprueba el teorema de Thevenin, demostrando de esa m
 
 6. Aportaciones
 
-   Ejercicio 1.
-   
- ![image](https://user-images.githubusercontent.com/76132461/103853158-69bb1580-507b-11eb-90ad-bdb4a657738f.png)
- 
- Como se puede observar, al poner el instrumento de medida en serie ya que mide corriente, nos marca un valor de 600mA, que es igual a 0.6A lo cual fue escrito en la resolución de ejercicios, de esa manera queda comprobado que tanto en simuladores como en cálculos el resultado es el mismo.
- 
-   Ejercicio 2.
-   
- ![image](https://user-images.githubusercontent.com/76134214/103856075-0da7bf80-5082-11eb-9cb3-df54a0a567c1.png)
- 
- Queda demostrado el teorema de Thevenin, los resultados de la simulación terminaron siendo exactos a los cálculos, la intensidad es de 0.1mA o lo que es igual a 100uA. El amperímetro está conectado en serie con la resistencia a la cual se quiere medir el valor.
- 
+  
  7. Conclusiones
  
  - Concluimos que al implementar el teorema Norton en circuitos mixtos se debe encontrar una única corriente denominada “IN” y simplificar todas las resistencias en nuestro circuito utilizando leyes de Kirchhoff y divisores de voltaje, dando como resultado un solo resistor denominado “RN”.
