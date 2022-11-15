@@ -65,7 +65,7 @@
    
 4. Video
 
-https://youtu.be/xWgsjagHwsw
+
 
 5. Conclusiones
 
